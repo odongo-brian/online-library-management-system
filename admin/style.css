@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+.wrapper{
+    height: 660px;
+    width: 1350px; 
+    /*background-color: red; */
+}
+header{
+    height: 130px;
+    width: 1364px ;
+    background-color: black;
+}
+section{
+    height: 450px;
+    width: 1364px ;
+    background-color: grey ;
+}
+footer{
+    
+    width: 1361px ;
+    background-color: black;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+/*
+nav{
+    float: right;
+    word-spacing: 30px;
+    padding: 20px;
+}
+nav li{
+    display: inline-block;
+    line-height: 80px;
+    
+
+}
+*/
+#logo{
+    height: 70px;
+    width: 70px;
+    padding-left: 20px;
+    float: left;
+}
+.ourlogo{
+    float: left;
+}
+section .sec_img{
+    margin-top: 0;
+    background-image: url("images/tech.jpg");
+    height: 550px;
+    
+}
+.box{
+    height: 300px;
+    width: 450px;
+    background-color: red;
+    margin: 70px auto;
+    opacity: .6;
+}
+footer p{
+    color: white;
+    text-align: center;
+    width: 1361px;
+    background-color: grey;
+}
+
+/*--------student login...............*/
+.log_img{
+    margin-top: 0;
+    background-image: url("images/tech.jpg");
+    height: 650px;
+}
